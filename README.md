@@ -2,7 +2,7 @@ hi, im jason bui
 
 majoring in stats @ ucsb
 
-python, r, sql, typescript
+python, postgres, typescript
 
 email me [jasonhoabui@gmail.com](mailto:jasonhoabui@gmail.com)
 
